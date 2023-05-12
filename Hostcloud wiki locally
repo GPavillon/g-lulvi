@@ -1,1 +1,29 @@
 https://github.com/GPavillon/g-lulvi.wiki.git
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Impress.js Presentation</title>
+  <link rel="stylesheet" href="css/impress.css">
+  <script src="js/impress.js"></script>
+</head>
+<body>
+  <div id="impress">
+    <div id="title" class="step" data-x="0" data-y="0">
+      <h1>Welcome to my hostcloud presentation</h1>
+      <p>This is the first slide</p>
+    </div>
+    <div id="slide2" class="step" data-x="1000" data-y="0">
+      <h2>This is the second slide</h2>
+      <p>It is positioned to the right of the first slide</p>
+    </div>
+    <div id="slide3" class="step" data-x="0" data-y="1000">
+      <h2>This is the third slide</h2>
+      <p>It is positioned below the first slide</p>
+    </div>
+  </div>
+  <script>
+    // Initialize impress.js
+    impress().init();
+  </script>
+</body>
+</html>
