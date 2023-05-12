@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My Impress.js Presentation</title>
-  <link rel="stylesheet" href="css/impress.css">
-  <script src="js/impress.js"></script>
 </head>
 <body>
   <div id="impress">
