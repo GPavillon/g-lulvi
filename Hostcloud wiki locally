@@ -1,3 +1,39 @@
+function setup() {
+  createCanvas(400, 400);
+  background(255);
+}
+
+function draw() {
+  // generate a random color
+  let r = random(0, 255);
+  let g = random(0, 255);
+  let b = random(0, 255);
+  stroke(r, g, b);
+  strokeWeight(10);
+  
+  // generate a random position within the canvas
+  let x = random(0, width);
+  let y = random(0, height);
+  
+  // simulate a splatter by drawing a circle with a random radius
+  let radius = random(10, 50);
+  ellipse(x, y, radius, radius);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!DOCTYPE html>
 <html>
 <head>
