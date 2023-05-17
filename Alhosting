@@ -1,3 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <loc>http://uiux.alhosting.online/sitemaps-1.html</loc>
+      <lastmod>2023-05-15</lastmod>
+   </url>
+   <url>
+      <loc>http://uiux.alhosting.online/sitemaps-2.html</loc>
+      <lastmod>2023-05-14</lastmod>
+   </url>
+</urlset>
+
+
+
 <h1 id="sample-markdown">Sample Markdown</h1>
 <p>This is some basic, sample markdown.</p>
 <h2 id="second-heading">Second Heading</h2>
